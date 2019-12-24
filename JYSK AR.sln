@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JYSK AR", "Assembly-CSharp.csproj", "{D5073F25-E52C-E1E2-2568-FC421438492A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JYSK AR", "Assembly-CSharp-Editor.csproj", "{C7272878-70A6-700C-0D73-366857E46263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5073F25-E52C-E1E2-2568-FC421438492A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5073F25-E52C-E1E2-2568-FC421438492A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5073F25-E52C-E1E2-2568-FC421438492A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5073F25-E52C-E1E2-2568-FC421438492A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7272878-70A6-700C-0D73-366857E46263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7272878-70A6-700C-0D73-366857E46263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7272878-70A6-700C-0D73-366857E46263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7272878-70A6-700C-0D73-366857E46263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
